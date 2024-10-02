@@ -1,3 +1,183 @@
 {
-    "language": "en"
+    "language": "en",
+    "01": {
+        "moon_phase": [
+            1,
+            "Waxing Crescent"
+        ]
+    },
+    "02": {
+        "moon_phase": [
+            1,
+            "Waxing Crescent"
+        ]
+    },
+    "03": {
+        "moon_phase": [
+            1,
+            "Waxing Crescent"
+        ]
+    },
+    "04": {
+        "moon_phase": [
+            2,
+            "First Quarter"
+        ]
+    },
+    "05": {
+        "moon_phase": [
+            2,
+            "First Quarter"
+        ]
+    },
+    "06": {
+        "moon_phase": [
+            2,
+            "First Quarter"
+        ]
+    },
+    "07": {
+        "moon_phase": [
+            2,
+            "First Quarter"
+        ]
+    },
+    "08": {
+        "moon_phase": [
+            3,
+            "Waxing Gibbous"
+        ]
+    },
+    "09": {
+        "moon_phase": [
+            3,
+            "Waxing Gibbous"
+        ]
+    },
+    "10": {
+        "moon_phase": [
+            3,
+            "Waxing Gibbous"
+        ]
+    },
+    "11": {
+        "moon_phase": [
+            4,
+            "Full Moon"
+        ]
+    },
+    "12": {
+        "moon_phase": [
+            4,
+            "Full Moon"
+        ]
+    },
+    "13": {
+        "moon_phase": [
+            4,
+            "Full Moon"
+        ]
+    },
+    "14": {
+        "moon_phase": [
+            4,
+            "Full Moon"
+        ]
+    },
+    "15": {
+        "moon_phase": [
+            5,
+            "Waning Gibbous"
+        ]
+    },
+    "16": {
+        "moon_phase": [
+            5,
+            "Waning Gibbous"
+        ]
+    },
+    "17": {
+        "moon_phase": [
+            5,
+            "Waning Gibbous"
+        ]
+    },
+    "18": {
+        "moon_phase": [
+            5,
+            "Waning Gibbous"
+        ]
+    },
+    "19": {
+        "moon_phase": [
+            6,
+            "Last Quarter"
+        ]
+    },
+    "20": {
+        "moon_phase": [
+            6,
+            "Last Quarter"
+        ]
+    },
+    "21": {
+        "moon_phase": [
+            6,
+            "Last Quarter"
+        ]
+    },
+    "22": {
+        "moon_phase": [
+            6,
+            "Last Quarter"
+        ]
+    },
+    "23": {
+        "moon_phase": [
+            7,
+            "Waning Crescent"
+        ]
+    },
+    "24": {
+        "moon_phase": [
+            7,
+            "Waning Crescent"
+        ]
+    },
+    "25": {
+        "moon_phase": [
+            7,
+            "Waning Crescent"
+        ]
+    },
+    "26": {
+        "moon_phase": [
+            7,
+            "Waning Crescent"
+        ]
+    },
+    "27": {
+        "moon_phase": [
+            7,
+            "Waning Crescent"
+        ]
+    },
+    "28": {
+        "moon_phase": [
+            0,
+            "New Moon"
+        ]
+    },
+    "29": {
+        "moon_phase": [
+            0,
+            "New Moon"
+        ]
+    },
+    "30": {
+        "moon_phase": [
+            1,
+            "Waxing Crescent"
+        ]
+    }
 }
